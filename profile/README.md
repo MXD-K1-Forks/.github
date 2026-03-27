@@ -16,4 +16,4 @@ GitHub doesn't give you a great way to separate forks from profiles.
 
 ## About me
 
-👉 Check out my main profile: [github.com/MXD-K1](https://github.com/MXD-K1)
+👉 Check out my main profile: [MXD-K1](https://github.com/MXD-K1)
